@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 112" role="img" aria-labelledby="title desc">
+  <title id="title">O Oráculo da Praça</title>
+  <desc id="desc">Marca dourada com um arco, três pontos e uma estrela central.</desc>
+  <g fill="none" stroke="#D9B976" stroke-width="2">
+    <circle cx="52" cy="56" r="44" opacity=".65"/>
+    <path d="M28 75V48a24 24 0 0 1 48 0v27"/>
+    <path d="M40 75V53a12 12 0 0 1 24 0v22" opacity=".85"/>
+    <path d="m52 26 3.5 13.5L69 43l-13.5 3.5L52 60l-3.5-13.5L35 43l13.5-3.5Z" fill="#D9B976" stroke="none"/>
+    <path d="M33 78h38"/>
+    <circle cx="32" cy="90" r="2" fill="#D9B976"/><circle cx="52" cy="90" r="2" fill="#D9B976"/><circle cx="72" cy="90" r="2" fill="#D9B976"/>
+  </g>
+  <text x="116" y="48" fill="#F1DFB3" font-family="Georgia,serif" font-size="35" letter-spacing="1">O ORÁCULO</text>
+  <text x="118" y="81" fill="#D9B976" font-family="Arial,sans-serif" font-size="16" letter-spacing="5">DA PRAÇA</text>
+</svg>
